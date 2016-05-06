@@ -1,0 +1,5 @@
+AccountName: lontivero@bitcointalk.org
+Expires    : 20/06/2016 04:29:58 a.m. +00:00
+Length     : 20
+HashCode   : 0502d61449169e40ffa4f63fa217701f13af91d797f8c06ccb9443353458a67b
+Signature  : 3044022057189431b2d30f079ae5cf891085d7c36f744e8986ebc6f3adb92bb2e8d503e302202bca6fcbfeaca61c96b8730ce63f34b4c6aa3dd318a9d513d68c8bf222856745
